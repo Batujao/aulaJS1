@@ -10,5 +10,5 @@ for (i = 1; i <= qtd; i++) {
   soma = soma + i;
 }
 let media = soma / qtd;
-alert(`${soma}`);
+
 alert(`Sua média é: ${media}`);
